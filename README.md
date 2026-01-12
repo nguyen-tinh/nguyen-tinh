@@ -65,5 +65,5 @@ Currently, I focus on:
 ### 🤝 Let's Chat
 I am open to discussing **Senior Frontend** opportunities where I can contribute to architectural decisions.
 
-* 📄 **My CV:** [View/Download on Google Drive](https://drive.google.com/file/d/1U8iLXYI86_biEkWxMT6_C7QzBkVN2gv2/view?usp=drive_link) ↗️
+* 📄 **My CV:** [View/Download on Google Drive](https://drive.google.com/file/d/1sFbtCUAgowbZFqWOk26A7ONlIpqvzZ39/view?usp=sharing) ↗️
 * 📮 **Email:** [ntinh1961998@gmail.com](mailto:ntinh1961998@gmail.com)
